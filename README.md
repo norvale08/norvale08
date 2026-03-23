@@ -53,14 +53,6 @@ Remote Developer • Open to Work
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IreneTayler&layout=compact&theme=tokyonight" />
-
----
-
 ## ⭐ Featured Projects
 
 ### Real-Time Chat Application
