@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 </h1>
-<h3 align="center">Full-Stack Developer | React · Angular · TypeScript · Node.js · Python</h3>
+<h3 align="center">Full-Stack Developer | React · Angular · TypeScript · PHP · Node.js · Python</h3>
 
 <p align="center">
 Remote Developer • Open to Work
