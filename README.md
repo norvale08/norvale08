@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Irene Tayler</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">Full-Stack Developer | React · Angular · TypeScript · Node.js · Python</h3>
 
 <p align="center">
