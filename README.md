@@ -87,6 +87,4 @@ Features:
 ---
 
 ## 📫 Contact
-
-📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
