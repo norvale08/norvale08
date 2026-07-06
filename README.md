@@ -1,35 +1,42 @@
-# 👋 Hello! Full-Stack Developer
+# 👋 Hello, I'm a Full-Stack Developer
 
-I am a Full-Stack Developer focused on building modern web applications, optimizing databases, and engineering reliable backend systems. My core engineering practices center on technical efficiency, refactoring legacy codebases, and designing clean, maintainable system architecture.
+I build modern web applications, optimize database layers, and engineer reliable backend systems. My core focus centers on technical efficiency, refactoring legacy codebases, and designing clean, maintainable system architecture.
 
 ---
 
-### 🏛 Core Expertise & Engineering Practices
+### 🏛 Core Expertise
 
-* **System Integration & Architecture:** Crafting reliable business logic layers, clean API design (REST), and integrating complex third-party services (payment gateways, delivery APIs, external product catalogs).
-* **Performance & Database Optimization:** Relational data modeling, rewriting and indexing complex SQL queries, refactoring legacy code, and implementing server-side caching to drastically reduce latency.
-* **Production-Ready Operations:** Containerizing applications, configuring reverse proxies, and setting up automated testing pipelines to ensure data consistency before deployment.
+* **System Integration & Architecture:** Decoupled business logic layers, clean REST API design, and complex third-party integrations (payments, delivery services, external product catalogs).
+* **Performance & Database Optimization:** Relational modeling, indexing complex SQL queries, legacy code refactoring, and server-side caching to reduce system latency.
+* **Production Engineering:** Containerized workflows, reverse proxy configurations, and automated testing pipelines to ensure data consistency before deployment.
 
 ---
 
 ### 🛠 Technical Stack
 
-* **Backend / Core:** PHP (Laravel, Symfony), Python (FastAPI), Node.js, REST APIs, Microservices
-* **Databases & Caching:** PostgreSQL, MySQL, Redis, Memcached, MongoDB, SQL Query Optimization
-* **Infrastructure & DevOps:** Docker, Nginx, CI/CD pipelines, Git, Linux
-* **Frontend Architecture:** React, Next.js (App Router & Pages Router), TypeScript, JavaScript (ES6+), SSR / ISR / CSR, Tailwind CSS
+**Backend & Core**  
+`#php` `#laravel` `#symfony` `#python` `#fastapi` `#node.js` `#express` `#rest-api` `#microservices`
+
+**Databases & Caching**  
+`#postgresql` `#mysql` `#mongodb` `#redis` `#memcached` `#sql-optimization`
+
+**Infrastructure & DevOps**  
+`#docker` `#nginx` `#linux` `#ci-cd` `#git` `#github-actions`
+
+**Frontend Architecture**  
+`#react` `#next.js` `#typescript` `#javascript` `#tailwindcss` `#ssr` `#isr` `#spa`
 
 ---
 
 ### ⭐ Featured Repositories
 
 #### ⚙️ High-Performance API & Core Backend Service
-* **Stack:** Python (FastAPI) • PHP (Laravel) • Redis • PostgreSQL • Docker
-* **Engineering Focus:** A production-ready backend demonstrating clean architecture layers and decoupled business logic. Includes optimized database interactions, a server-side caching layer via Redis to mitigate heavy query loads, and a secure authentication system.
+* **Stack:** `#python` `#fastapi` `#laravel` `#redis` `#postgresql` `#docker`
+* **Engineering Focus:** A production-ready backend demonstrating clean architecture layers. Includes optimized database interactions, a server-side caching layer via Redis to mitigate heavy query loads, and secure authentication.
 * **DevOps Integration:** Packaged with a multi-stage `Dockerfile` and automated GitHub Actions workflows for continuous integration testing.
 
 #### 📊 Data-Driven Full-Stack Application
-* **Stack:** Next.js (App Router) • TypeScript • React • MySQL • Nginx
+* **Stack:** `#next.js` `#typescript` `#react` `#mysql` `#nginx`
 * **Engineering Focus:** A robust application highlighting seamless frontend-to-backend data consistency. Leverages Next.js Server-Side Rendering (SSR) and strict type safety to fetch, handle, and display dynamic data structures efficiently.
 * **Performance Focus:** Features structured database schemas with custom relational indexing to maintain high-speed query execution under load.
 
@@ -37,6 +44,6 @@ I am a Full-Stack Developer focused on building modern web applications, optimiz
 
 ### 📫 Contact & Availability
 
-* 💼 **Open to:** Remote Full-Stack Developer or Core Backend Developer roles.
+* 💼 **Open to:** Remote Full-Stack Developer or Core Backend Developer roles
 * 📧 **Email:** `irene_tayler@mail.ru`
 * 💬 **Telegram:** `@irene_dev`
