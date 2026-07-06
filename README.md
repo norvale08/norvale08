@@ -1,90 +1,42 @@
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center">Full-Stack Developer | React · Angular · TypeScript · PHP · Node.js · Python</h3>
+# 👋 Hello! Full-Stack Developer
 
-<p align="center">
-Remote Developer • Open to Work
-</p>
+I am a Full-Stack Developer focused on building modern web applications, optimizing databases, and engineering reliable backend systems. My core engineering practices center on technical efficiency, refactoring legacy codebases, and designing clean, maintainable system architecture.
 
 ---
 
-## 🚀 About Me
+### 🏛 Core Expertise & Engineering Practices
 
-• Full-stack developer building modern web applications  
-• Experience with React, Angular, TypeScript, Node.js, Express  
-• Backend development with Python and FastAPI  
-• Skilled in Responsive Web Design (mobile-first)  
-• Working with PostgreSQL, MongoDB, MySQL  
-• Using Docker and CI/CD  
-• Open to remote developer opportunities  
+* **System Integration & Architecture:** Crafting reliable business logic layers, clean API design (REST), and integrating complex third-party services (payment gateways, delivery APIs, external product catalogs).
+* **Performance & Database Optimization:** Relational data modeling, rewriting and indexing complex SQL queries, refactoring legacy code, and implementing server-side caching to drastically reduce latency.
+* **Production-Ready Operations:** Containerizing applications, configuring reverse proxies, and setting up automated testing pipelines to ensure data consistency before deployment.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Technical Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-blue)
-![Angular](https://img.shields.io/badge/Angular-red)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green)
-![Express](https://img.shields.io/badge/Express.js-black)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal)
-![Laravel](https://img.shields.io/badge/Laravel-red)
-
-### Programming
-![Python](https://img.shields.io/badge/Python-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-grey)
-
-### UI
-![Responsive](https://img.shields.io/badge/Responsive-Design-green)
-![Mobile First](https://img.shields.io/badge/Mobile-First-blue)
+* **Backend / Core:** PHP (Laravel, Symfony), Python (FastAPI), Node.js, REST APIs, Microservices
+* **Databases & Caching:** PostgreSQL, MySQL, Redis, Memcached, MongoDB, SQL Query Optimization
+* **Infrastructure & DevOps:** Docker, Nginx, CI/CD pipelines, Git, Linux
+* **Frontend Architecture:** React, Next.js (App Router & Pages Router), TypeScript, JavaScript (ES6+), SSR / ISR / CSR, Tailwind CSS
 
 ---
 
-## ⭐ Featured Projects
+### ⭐ Featured Repositories
 
-### Real-Time Chat Application
-Tech: React · Node.js · WebSocket · PostgreSQL  
+#### ⚙️ High-Performance API & Core Backend Service
+* **Stack:** Python (FastAPI) • PHP (Laravel) • Redis • PostgreSQL • Docker
+* **Engineering Focus:** A production-ready backend demonstrating clean architecture layers and decoupled business logic. Includes optimized database interactions, a server-side caching layer via Redis to mitigate heavy query loads, and a secure authentication system.
+* **DevOps Integration:** Packaged with a multi-stage `Dockerfile` and automated GitHub Actions workflows for continuous integration testing.
 
-Features:
-• real-time messaging  
-• authentication  
-• responsive UI  
-• REST API backend  
-
----
-
-### Analytics Dashboard
-Tech: React · TypeScript · REST API  
-
-Features:
-• interactive charts  
-• responsive layout  
-• API data integration  
+#### 📊 Data-Driven Full-Stack Application
+* **Stack:** Next.js (App Router) • TypeScript • React • MySQL • Nginx
+* **Engineering Focus:** A robust application highlighting seamless frontend-to-backend data consistency. Leverages Next.js Server-Side Rendering (SSR) and strict type safety to fetch, handle, and display dynamic data structures efficiently.
+* **Performance Focus:** Features structured database schemas with custom relational indexing to maintain high-speed query execution under load.
 
 ---
 
-### REST API Service
-Tech: Python · FastAPI · PostgreSQL · Docker  
+### 📫 Contact & Availability
 
-Features:
-• secure authentication  
-• scalable backend architecture  
-• API documentation  
-
----
-
-## 📫 Contact
-💼 Open to remote full-stack developer roles
+* 💼 **Open to:** Remote Full-Stack Developer or Core Backend Developer roles.
+* 📧 **Email:** `[Your Email Here]`
+* 💬 **Telegram:** `[Your Telegram Handle Here]`
