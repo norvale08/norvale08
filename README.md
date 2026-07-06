@@ -38,5 +38,5 @@ I am a Full-Stack Developer focused on building modern web applications, optimiz
 ### 📫 Contact & Availability
 
 * 💼 **Open to:** Remote Full-Stack Developer or Core Backend Developer roles.
-* 📧 **Email:** `[Your Email Here]`
-* 💬 **Telegram:** `[Your Telegram Handle Here]`
+* 📧 **Email:** `irene_tayler@mail.ru`
+* 💬 **Telegram:** `@irene_dev`
