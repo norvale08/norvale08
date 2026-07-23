@@ -45,5 +45,3 @@ I build modern web applications, optimize database layers, and engineer reliable
 ### 📫 Contact & Availability
 
 * 💼 **Open to:** Remote Full-Stack Developer or Core Backend Developer roles
-* 📧 **Email:** `irene_tayler@mail.ru`
-* 💬 **Telegram:** `@irene_dev`
